@@ -136,7 +136,7 @@ p {
   font-size: 13;
   color: #606161;
   font-weight: lighter;
-  padding: 5px;
+  padding: 5px 20%;
   display: block;
 }
 ul {
@@ -146,7 +146,7 @@ ul {
   padding: 7px 20%;
   text-indent: 20px;
   display: block;
-  text-indent: 30px;
+  text-align: left;
 }
 .color-yellow {
   color: #f9e42e;
@@ -191,6 +191,7 @@ section.lightground {
   background-color: #f0efef;
   display: block;
   width: 100%;
+  text-align: left;
 }
 section.yellowground {
   background-color: #f9e42e;
